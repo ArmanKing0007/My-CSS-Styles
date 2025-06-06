@@ -1,0 +1,8 @@
+/* --- Custom Style for Google Search Results --- */
+#rso .g, #rso .xpdopen {
+    font-family: "Vazirmatn", Arial, sans-serif !important;
+    font-size: 16px !important;
+}
+#rso h3 {
+    font-size: 20px !important;
+}
